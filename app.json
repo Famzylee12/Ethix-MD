@@ -1,10 +1,10 @@
 {
   "name": "whatsapp-bot (Ethix-MD)",
-  "description": " Whatsapp bot.created by 𝕊𝕀𝕃𝕍𝔸",
+  "description": " Whatsapp bot.created by Famzy Lee",
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/SilvaTechB/Ethix-MD",
+  "repository": "https://github.com/Famzylee12/Ethix-MD",
   "stack": "container",
   "env": { 
       "SESSION_ID": {
